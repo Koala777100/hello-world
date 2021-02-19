@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi.
+Greeting from Nagano Japan.
+I am Shiho.
